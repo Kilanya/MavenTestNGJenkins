@@ -14,6 +14,7 @@ public class BaseClass {
 	driver.get("https://www.google.com/");
 	
 	System.out.println("hello world");
+	System.out.println("It's me Sammy");
 	
 	}
 
